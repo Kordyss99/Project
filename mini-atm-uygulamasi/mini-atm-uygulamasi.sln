@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mini-atm-uygulamasi", "mini-atm-uygulamasi\mini-atm-uygulamasi.csproj", "{8659977D-92DD-4BED-8E9D-2AD873E22567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8659977D-92DD-4BED-8E9D-2AD873E22567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8659977D-92DD-4BED-8E9D-2AD873E22567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8659977D-92DD-4BED-8E9D-2AD873E22567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8659977D-92DD-4BED-8E9D-2AD873E22567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FF2BDB3-93F8-4054-AE1A-B416AE46FF6F}
+	EndGlobalSection
+EndGlobal

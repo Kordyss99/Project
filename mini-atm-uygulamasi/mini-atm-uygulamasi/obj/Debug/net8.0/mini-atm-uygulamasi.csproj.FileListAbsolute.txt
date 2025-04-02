@@ -1,0 +1,14 @@
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\bin\Debug\net8.0\mini-atm-uygulamasi.exe
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\bin\Debug\net8.0\mini-atm-uygulamasi.deps.json
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\bin\Debug\net8.0\mini-atm-uygulamasi.runtimeconfig.json
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\bin\Debug\net8.0\mini-atm-uygulamasi.dll
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\bin\Debug\net8.0\mini-atm-uygulamasi.pdb
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\obj\Debug\net8.0\mini-atm-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\obj\Debug\net8.0\mini-atm-uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\obj\Debug\net8.0\mini-atm-uygulamasi.AssemblyInfo.cs
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\obj\Debug\net8.0\mini-atm-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\obj\Debug\net8.0\mini-atm-uygulamasi.dll
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\obj\Debug\net8.0\refint\mini-atm-uygulamasi.dll
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\obj\Debug\net8.0\mini-atm-uygulamasi.pdb
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\obj\Debug\net8.0\mini-atm-uygulamasi.genruntimeconfig.cache
+C:\Users\Kordy\source\repos\mini-atm-uygulamasi\mini-atm-uygulamasi\obj\Debug\net8.0\ref\mini-atm-uygulamasi.dll
