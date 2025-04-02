@@ -1,0 +1,14 @@
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\obj\Debug\net8.0\beden-kitle-indeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\obj\Debug\net8.0\beden-kitle-indeksi.AssemblyInfoInputs.cache
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\obj\Debug\net8.0\beden-kitle-indeksi.AssemblyInfo.cs
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\obj\Debug\net8.0\beden-kitle-indeksi.csproj.CoreCompileInputs.cache
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\bin\Debug\net8.0\beden-kitle-indeksi.exe
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\bin\Debug\net8.0\beden-kitle-indeksi.deps.json
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\bin\Debug\net8.0\beden-kitle-indeksi.runtimeconfig.json
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\bin\Debug\net8.0\beden-kitle-indeksi.dll
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\bin\Debug\net8.0\beden-kitle-indeksi.pdb
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\obj\Debug\net8.0\beden-kitle-indeksi.dll
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\obj\Debug\net8.0\refint\beden-kitle-indeksi.dll
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\obj\Debug\net8.0\beden-kitle-indeksi.pdb
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\obj\Debug\net8.0\beden-kitle-indeksi.genruntimeconfig.cache
+C:\Users\Kordy\source\repos\beden-kitle-indeksi\beden-kitle-indeksi\obj\Debug\net8.0\ref\beden-kitle-indeksi.dll
