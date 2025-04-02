@@ -1,0 +1,14 @@
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\bin\Debug\net8.0\Not-Ortalaması.exe
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\bin\Debug\net8.0\Not-Ortalaması.deps.json
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\bin\Debug\net8.0\Not-Ortalaması.runtimeconfig.json
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\bin\Debug\net8.0\Not-Ortalaması.dll
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\bin\Debug\net8.0\Not-Ortalaması.pdb
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\obj\Debug\net8.0\Not-Ortalaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\obj\Debug\net8.0\Not-Ortalaması.AssemblyInfoInputs.cache
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\obj\Debug\net8.0\Not-Ortalaması.AssemblyInfo.cs
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\obj\Debug\net8.0\Not-Ortalaması.csproj.CoreCompileInputs.cache
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\obj\Debug\net8.0\Not-Ortalaması.dll
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\obj\Debug\net8.0\refint\Not-Ortalaması.dll
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\obj\Debug\net8.0\Not-Ortalaması.pdb
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\obj\Debug\net8.0\Not-Ortalaması.genruntimeconfig.cache
+C:\Users\Kordy\source\repos\Not-Ortalaması\Not-Ortalaması\obj\Debug\net8.0\ref\Not-Ortalaması.dll
