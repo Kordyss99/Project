@@ -1,0 +1,14 @@
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\obj\Debug\net8.0\doviz-hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\obj\Debug\net8.0\doviz-hesaplama.AssemblyInfoInputs.cache
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\obj\Debug\net8.0\doviz-hesaplama.AssemblyInfo.cs
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\obj\Debug\net8.0\doviz-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\bin\Debug\net8.0\doviz-hesaplama.exe
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\bin\Debug\net8.0\doviz-hesaplama.deps.json
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\bin\Debug\net8.0\doviz-hesaplama.runtimeconfig.json
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\bin\Debug\net8.0\doviz-hesaplama.dll
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\bin\Debug\net8.0\doviz-hesaplama.pdb
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\obj\Debug\net8.0\doviz-hesaplama.dll
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\obj\Debug\net8.0\refint\doviz-hesaplama.dll
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\obj\Debug\net8.0\doviz-hesaplama.pdb
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\obj\Debug\net8.0\doviz-hesaplama.genruntimeconfig.cache
+C:\Users\Kordy\source\repos\doviz-hesaplama\doviz-hesaplama\obj\Debug\net8.0\ref\doviz-hesaplama.dll
