@@ -1,0 +1,14 @@
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\obj\Debug\net8.0\yas-hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\obj\Debug\net8.0\yas-hesaplama.AssemblyInfoInputs.cache
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\obj\Debug\net8.0\yas-hesaplama.AssemblyInfo.cs
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\obj\Debug\net8.0\yas-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\bin\Debug\net8.0\yas-hesaplama.exe
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\bin\Debug\net8.0\yas-hesaplama.deps.json
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\bin\Debug\net8.0\yas-hesaplama.runtimeconfig.json
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\bin\Debug\net8.0\yas-hesaplama.dll
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\bin\Debug\net8.0\yas-hesaplama.pdb
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\obj\Debug\net8.0\yas-hesaplama.dll
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\obj\Debug\net8.0\refint\yas-hesaplama.dll
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\obj\Debug\net8.0\yas-hesaplama.pdb
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\obj\Debug\net8.0\yas-hesaplama.genruntimeconfig.cache
+C:\Users\Kordy\source\repos\yas-hesaplama\yas-hesaplama\obj\Debug\net8.0\ref\yas-hesaplama.dll
