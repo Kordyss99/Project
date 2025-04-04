@@ -1,0 +1,14 @@
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\obj\Debug\net8.0\sayilarin-ortalamasini-bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\obj\Debug\net8.0\sayilarin-ortalamasini-bulma.AssemblyInfoInputs.cache
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\obj\Debug\net8.0\sayilarin-ortalamasini-bulma.AssemblyInfo.cs
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\obj\Debug\net8.0\sayilarin-ortalamasini-bulma.csproj.CoreCompileInputs.cache
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\bin\Debug\net8.0\sayilarin-ortalamasini-bulma.exe
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\bin\Debug\net8.0\sayilarin-ortalamasini-bulma.deps.json
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\bin\Debug\net8.0\sayilarin-ortalamasini-bulma.runtimeconfig.json
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\bin\Debug\net8.0\sayilarin-ortalamasini-bulma.dll
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\bin\Debug\net8.0\sayilarin-ortalamasini-bulma.pdb
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\obj\Debug\net8.0\sayilarin-ortalamasini-bulma.dll
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\obj\Debug\net8.0\refint\sayilarin-ortalamasini-bulma.dll
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\obj\Debug\net8.0\sayilarin-ortalamasini-bulma.pdb
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\obj\Debug\net8.0\sayilarin-ortalamasini-bulma.genruntimeconfig.cache
+C:\Users\Kordy\source\repos\sayilarin-ortalamasini-bulma\sayilarin-ortalamasini-bulma\obj\Debug\net8.0\ref\sayilarin-ortalamasini-bulma.dll
