@@ -1,0 +1,14 @@
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\obj\Debug\net8.0\cift-sayilarin-toplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\obj\Debug\net8.0\cift-sayilarin-toplami.AssemblyInfoInputs.cache
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\obj\Debug\net8.0\cift-sayilarin-toplami.AssemblyInfo.cs
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\obj\Debug\net8.0\cift-sayilarin-toplami.csproj.CoreCompileInputs.cache
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\bin\Debug\net8.0\cift-sayilarin-toplami.exe
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\bin\Debug\net8.0\cift-sayilarin-toplami.deps.json
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\bin\Debug\net8.0\cift-sayilarin-toplami.runtimeconfig.json
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\bin\Debug\net8.0\cift-sayilarin-toplami.dll
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\bin\Debug\net8.0\cift-sayilarin-toplami.pdb
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\obj\Debug\net8.0\cift-sayilarin-toplami.dll
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\obj\Debug\net8.0\refint\cift-sayilarin-toplami.dll
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\obj\Debug\net8.0\cift-sayilarin-toplami.pdb
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\obj\Debug\net8.0\cift-sayilarin-toplami.genruntimeconfig.cache
+C:\Users\Kordy\source\repos\cift-sayilarin-toplami\cift-sayilarin-toplami\obj\Debug\net8.0\ref\cift-sayilarin-toplami.dll

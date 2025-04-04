@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kordy\\source\\repos\\cift-sayilarin-toplami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F213878-FFA9-4711-B130-DB5B4C5CE44E}|cift-sayilarin-toplami\\cift-sayilarin-toplami.csproj|c:\\users\\kordy\\source\\repos\\cift-sayilarin-toplami\\cift-sayilarin-toplami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F213878-FFA9-4711-B130-DB5B4C5CE44E}|cift-sayilarin-toplami\\cift-sayilarin-toplami.csproj|solutionrelative:cift-sayilarin-toplami\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kordy\\source\\repos\\cift-sayilarin-toplami\\cift-sayilarin-toplami\\Program.cs",
+              "RelativeDocumentMoniker": "cift-sayilarin-toplami\\Program.cs",
+              "ToolTip": "C:\\Users\\Kordy\\source\\repos\\cift-sayilarin-toplami\\cift-sayilarin-toplami\\Program.cs",
+              "RelativeToolTip": "cift-sayilarin-toplami\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:00:25.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
