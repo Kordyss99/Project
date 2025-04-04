@@ -1,0 +1,14 @@
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\bin\Debug\net8.0\fibonaci.exe
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\bin\Debug\net8.0\fibonaci.deps.json
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\bin\Debug\net8.0\fibonaci.runtimeconfig.json
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\bin\Debug\net8.0\fibonaci.dll
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\bin\Debug\net8.0\fibonaci.pdb
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\obj\Debug\net8.0\fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\obj\Debug\net8.0\fibonaci.AssemblyInfoInputs.cache
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\obj\Debug\net8.0\fibonaci.AssemblyInfo.cs
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\obj\Debug\net8.0\fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\obj\Debug\net8.0\fibonaci.dll
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\obj\Debug\net8.0\refint\fibonaci.dll
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\obj\Debug\net8.0\fibonaci.pdb
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\obj\Debug\net8.0\fibonaci.genruntimeconfig.cache
+C:\Users\Kordy\source\repos\fibonaci\fibonaci\obj\Debug\net8.0\ref\fibonaci.dll
