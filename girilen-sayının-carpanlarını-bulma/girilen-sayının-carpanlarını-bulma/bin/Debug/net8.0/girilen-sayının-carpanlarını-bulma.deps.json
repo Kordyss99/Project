@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "girilen-sayının-carpanlarını-bulma/1.0.0": {
+        "runtime": {
+          "girilen-sayının-carpanlarını-bulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "girilen-sayının-carpanlarını-bulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

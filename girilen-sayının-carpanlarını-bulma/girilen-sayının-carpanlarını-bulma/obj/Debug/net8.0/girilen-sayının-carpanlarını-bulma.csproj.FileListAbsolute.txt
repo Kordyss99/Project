@@ -1,0 +1,14 @@
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\bin\Debug\net8.0\girilen-sayının-carpanlarını-bulma.exe
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\bin\Debug\net8.0\girilen-sayının-carpanlarını-bulma.deps.json
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\bin\Debug\net8.0\girilen-sayının-carpanlarını-bulma.runtimeconfig.json
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\bin\Debug\net8.0\girilen-sayının-carpanlarını-bulma.dll
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\bin\Debug\net8.0\girilen-sayının-carpanlarını-bulma.pdb
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\obj\Debug\net8.0\girilen-sayının-carpanlarını-bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\obj\Debug\net8.0\girilen-sayının-carpanlarını-bulma.AssemblyInfoInputs.cache
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\obj\Debug\net8.0\girilen-sayının-carpanlarını-bulma.AssemblyInfo.cs
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\obj\Debug\net8.0\girilen-sayının-carpanlarını-bulma.csproj.CoreCompileInputs.cache
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\obj\Debug\net8.0\girilen-sayının-carpanlarını-bulma.dll
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\obj\Debug\net8.0\refint\girilen-sayının-carpanlarını-bulma.dll
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\obj\Debug\net8.0\girilen-sayının-carpanlarını-bulma.pdb
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\obj\Debug\net8.0\girilen-sayının-carpanlarını-bulma.genruntimeconfig.cache
+C:\Users\Kordy\source\repos\girilen-sayının-carpanlarını-bulma\girilen-sayının-carpanlarını-bulma\obj\Debug\net8.0\ref\girilen-sayının-carpanlarını-bulma.dll
